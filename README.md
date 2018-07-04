@@ -1,5 +1,5 @@
 # AROPE
-This is a sample implementation of "[Arbitrary-Order Proximity Preserved Network Embedding](http://git.thumedialab.com/embedding/AROPE/raw/master/KDD18AROPE.pdf)"(KDD 2018).
+This is a sample implementation of "[Arbitrary-Order Proximity Preserved Network Embedding](http://cuip.thumedialab.com/papers/NE-ArbitraryProximity.pdf)"(KDD 2018).
 
 ### Requirements
 ```
